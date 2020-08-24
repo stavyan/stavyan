@@ -28,6 +28,6 @@
 </a>
 
 
-### 🌱 我的使用的语言
+### 🌱 我使用的语言
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavyan&theme=radical)](https://github.com/stavyan/TinyShop-UniApp)
