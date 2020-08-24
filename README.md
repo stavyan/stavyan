@@ -13,16 +13,16 @@
 
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/stavyan/TinyShop-UniApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stavyan&repo=tinyshop-uniapp&theme=radical" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/jianyan74/TinyShop">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianyan74&repo=tinyshop&theme=radical" />
 </a>    
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/jianyan74/rageframe2">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianyan74&repo=rageframe2&theme=radical" />
 </a>
