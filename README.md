@@ -6,7 +6,7 @@
 
 ### 🌱 我的开源项目
 
-[![商城](https://github-readme-stats.vercel.app/api/pin/?username=stavyan&repo=github-readme-stats)](https://github.com/stavyan/TinyShop-UniApp)
+[![商城](https://github-readme-stats.vercel.app/api/pin/?username=stavyan&repo=TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp)
 
 ### 🌱 我的使用的语言
 
