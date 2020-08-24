@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there. I'm Stav.
 
 ### 🌱 我在 GitHub 上的统计
 
