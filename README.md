@@ -6,8 +6,8 @@
 
 ### 🌱 我的开源项目
 
-[![商城](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/stavyan/TinyShop-UniApp)
+[![商城](https://github-readme-stats.vercel.app/api/pin/?username=stavyan&repo=github-readme-stats)](https://github.com/stavyan/TinyShop-UniApp)
 
 ### 🌱 我的使用的语言
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavyan&hide=javascript,html)](https://github.com/stavyan/TinyShop-UniApp)
